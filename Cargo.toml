@@ -2,7 +2,7 @@
 name = "aplikasi-steganografi"
 version = "0.1.0"
 edition = "2024"
-authors = ["Mahasiswa"]
+authors = ["Hafizh Muhammad Hikmatiar"]
 description = "Aplikasi desktop steganografi untuk menyisipkan dan membaca pesan tersembunyi pada gambar, audio, dan video"
 license = "MIT"
 
